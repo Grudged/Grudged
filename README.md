@@ -1,29 +1,19 @@
-# Hey, I'm Chris 👋
+# 👋 Hey, I’m Chris
 
-I'm a software engineer focused on building clean, efficient tools that solve real-world problems — from dashboards and backend scripts to automating repetitive tasks. I'm freelancing while finishing my degree, and loving every minute of building things that actually help people.
+I'm a software engineer who designs internal dashboards, backend data pipelines, and automation tools that help teams work smarter — especially in high-volume operational environments.
 
-## 💡 What I Build
-- 🧠 Real-time dashboards with Angular, MQTT, and Highcharts
-- 🛠 Automation scripts with Python and Power Automate
-- 📊 Data tools and reporting with SQL and backend logic (even ColdFusion!)
-- ⚙️ Tools that reduce manual labor and improve visibility for ops teams
+## 🔧 What I Work On
+- Real-time dashboards for operations (Angular, API, Highcharts)
+- Backend automation using Python and SQL
+- Facilitating automation flows (Power Automate) across finance systems
+- Side projects in data scraping, marketplaces, and Linux monitoring
 
-## 🧰 Tech Stack
-**Languages:** JavaScript, Python, SQL, CFML  
-**Frameworks & Tools:** Angular, Highcharts, Power Automate, Node.js, MQTT, Git  
-**Databases:** Oracle, SQLite, MSSQL
+## 💡 Skills
+**Frontend:** Angular, HTML/CSS, JavaScript  
+**Backend:** Python, SQL, Oracle PL/SQL  
+**Automation & Ops:** Power Automate, MQTT, Zabbix, Linux
 
-## 🚀 Freelance Focus
-Right now I'm freelancing part-time while studying software engineering — looking for gigs that let me grow, solve problems, and build something useful.
-
-📫 Reach me at: [your@email.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin) | [Upwork](https://www.upwork.com/freelancers/~yourprofile)
-
----
-
-Let me know if you'd like:
-- A **clean badge version** (for flair)
-- A version written in Gen Z/dad-joke voice 🤓
-- Or help uploading this to your GitHub profile
-
-Ready to plug this in?
+## 🧪 Side Projects
+- 🧬 Pokémon marketplace scraper & price tracker
+- 📚 Author website with book/art showcase
+- 🏒 NHL data visualizer (API to local DB to Angular)
